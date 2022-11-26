@@ -1,0 +1,11 @@
+{
+  "name": "dett-phpdate",
+  "version": "1.0.0",
+  "description": "PHP date function for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dettlaff Insomniac",
+  "license": "MIT"
+}
